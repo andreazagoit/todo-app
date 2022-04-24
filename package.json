@@ -1,0 +1,23 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreazagoit/heroku-hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreazagoit/heroku-hello-world/issues"
+  },
+  "homepage": "https://github.com/andreazagoit/heroku-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
